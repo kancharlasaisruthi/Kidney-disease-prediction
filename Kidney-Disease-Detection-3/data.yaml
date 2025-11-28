@@ -1,0 +1,9 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: NORMAL
+  1: STONE
+  2: TUMOR
+  3: cysts
