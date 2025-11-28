@@ -8,27 +8,7 @@ This project uses Ultralytics YOLOv8 for training, validation, and
 inference. The repository includes training scripts, dataset structure,
 model weights, and evaluation results.
 
-## 📁 Project Structure
 
-    Kidney-disease-prediction/
-    │
-    ├── data/
-    │   ├── train/
-    │   ├── valid/
-    │   └── data.yaml
-    │
-    ├── models/
-    │   └── yolov8n.pt (or custom weights)
-    │
-    ├── runs/
-    │   └── detect/
-    │       └── train/
-    │
-    ├── scripts/
-    │   └── train.py
-    │   └── inference.py
-    │
-    └── README.md
 
 ## 🚀 Features
 
@@ -49,13 +29,19 @@ model weights, and evaluation results.
 Shows optimal confidence threshold across classes.\
 Best overall F1 = **0.88 at 0.257 confidence**.
 
+<img width="712" height="466" alt="image" src="https://github.com/user-attachments/assets/bd2dcd62-2c2b-43df-ad58-23ac86d2af04" />
+
 ### **Precision--Confidence Curve**
 
 Overall precision reaches **1.00 at 0.629 confidence**.
 
+<img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/176b5c98-b925-4772-a415-a68229d62c65" />
+
 ### **Recall--Confidence Curve**
 
 Recall remains strong, peaking at **0.98**.
+
+<img width="681" height="460" alt="image" src="https://github.com/user-attachments/assets/93933a63-3761-4ac4-b386-2db956947646" />
 
 ### **Precision--Recall Curve (mAP@0.5)**
 
@@ -64,9 +50,12 @@ Class-wise mAP@0.5: - NORMAL: **0.995** - STONE: **0.850** - TUMOR:
 
 Overall **mAP@0.5 = 0.903**
 
+<img width="685" height="453" alt="image" src="https://github.com/user-attachments/assets/61e01f29-37e8-447b-bd9f-bb68dcb625a2" />
+
 ### **Confusion Matrix**
 
 Shows prediction accuracy per class (raw and normalized).
+<img width="545" height="445" alt="image" src="https://github.com/user-attachments/assets/00fc1449-1208-4728-8009-ea7ac4842978" />
 
 ## 🧠 Model Training
 
@@ -89,7 +78,7 @@ Outputs will be saved to:
 
 ## 📦 Dataset
 
-Your dataset follows the YOLO format:
+dataset follows the YOLO format:
 
     data/
     ├── images/
