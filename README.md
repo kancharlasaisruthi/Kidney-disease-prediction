@@ -25,9 +25,9 @@ model weights, and evaluation results.
 ## Working Demo using Streamlit
 - Allows to upload CT-Scan image from system
 - 
-<img width="803" height="422" alt="image" src="https://github.com/user-attachments/assets/8f2ef53e-5068-4d6a-93df-18cbfbed0edd" />
+## <img width="803" height="422" alt="image" src="https://github.com/user-attachments/assets/8f2ef53e-5068-4d6a-93df-18cbfbed0edd" />
 
-<img width="564" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d60d4e-8453-4d1c-9e9c-e566b408e01a" />
+## <img width="564" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d60d4e-8453-4d1c-9e9c-e566b408e01a" />
 
 <img width="589" height="536" alt="image" src="https://github.com/user-attachments/assets/3b85ba20-5e49-4378-a57b-06877dec0d11" />
 
