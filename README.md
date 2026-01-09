@@ -25,15 +25,15 @@ model weights, and evaluation results.
 ## Working Demo using Streamlit
 - Allows to upload CT-Scan image from system
 - 
-<img width="803" height="422" alt="image" src="https://github.com/user-attachments/assets/8f2ef53e-5068-4d6a-93df-18cbfbed0edd" />
+## <img width="803" height="422" alt="image" src="https://github.com/user-attachments/assets/8f2ef53e-5068-4d6a-93df-18cbfbed0edd" />
 
-<img width="564" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d60d4e-8453-4d1c-9e9c-e566b408e01a" />
+## <img width="564" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d60d4e-8453-4d1c-9e9c-e566b408e01a" />
 
-<img width="589" height="536" alt="image" src="https://github.com/user-attachments/assets/3b85ba20-5e49-4378-a57b-06877dec0d11" />
+## <img width="589" height="536" alt="image" src="https://github.com/user-attachments/assets/3b85ba20-5e49-4378-a57b-06877dec0d11" />
 
-<img width="601" height="562" alt="image" src="https://github.com/user-attachments/assets/9835c0c7-c5ea-4261-9a78-a1e862d9a011" />
+## <img width="601" height="562" alt="image" src="https://github.com/user-attachments/assets/9835c0c7-c5ea-4261-9a78-a1e862d9a011" />
 
-<img width="608" height="530" alt="image" src="https://github.com/user-attachments/assets/dc465a78-8df3-458c-b0ad-c1b2c9db4cea" />
+## <img width="608" height="530" alt="image" src="https://github.com/user-attachments/assets/dc465a78-8df3-458c-b0ad-c1b2c9db4cea" />
 
 ## 📊 Validation Metrics & Results
 
@@ -42,19 +42,19 @@ model weights, and evaluation results.
 Shows optimal confidence threshold across classes.\
 Best overall F1 = **0.88 at 0.257 confidence**.
 
-<img width="712" height="466" alt="image" src="https://github.com/user-attachments/assets/bd2dcd62-2c2b-43df-ad58-23ac86d2af04" />
+## <img width="712" height="466" alt="image" src="https://github.com/user-attachments/assets/bd2dcd62-2c2b-43df-ad58-23ac86d2af04" />
 
 ### **Precision--Confidence Curve**
 
 Overall precision reaches **1.00 at 0.629 confidence**.
 
-<img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/176b5c98-b925-4772-a415-a68229d62c65" />
+## <img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/176b5c98-b925-4772-a415-a68229d62c65" />
 
 ### **Recall--Confidence Curve**
 
 Recall remains strong, peaking at **0.98**.
 
-<img width="681" height="460" alt="image" src="https://github.com/user-attachments/assets/93933a63-3761-4ac4-b386-2db956947646" />
+## <img width="681" height="460" alt="image" src="https://github.com/user-attachments/assets/93933a63-3761-4ac4-b386-2db956947646" />
 
 ### **Precision--Recall Curve (mAP@0.5)**
 
@@ -63,12 +63,12 @@ Class-wise mAP@0.5: - NORMAL: **0.995** - STONE: **0.850** - TUMOR:
 
 Overall **mAP@0.5 = 0.903**
 
-<img width="685" height="453" alt="image" src="https://github.com/user-attachments/assets/61e01f29-37e8-447b-bd9f-bb68dcb625a2" />
+## <img width="685" height="453" alt="image" src="https://github.com/user-attachments/assets/61e01f29-37e8-447b-bd9f-bb68dcb625a2" />
 
 ### **Confusion Matrix**
 
 Shows prediction accuracy per class (raw and normalized).
-<img width="545" height="445" alt="image" src="https://github.com/user-attachments/assets/00fc1449-1208-4728-8009-ea7ac4842978" />
+## <img width="545" height="445" alt="image" src="https://github.com/user-attachments/assets/00fc1449-1208-4728-8009-ea7ac4842978" />
 
 ## 🧠 Model Training
 
