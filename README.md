@@ -40,35 +40,39 @@ model weights, and evaluation results.
 ### **F1--Confidence Curve**
 
 Shows optimal confidence threshold across classes.\
-Best overall F1 = **0.88 at 0.257 confidence**.
+Best overall F1 = **0.93 at 0.366 confidence**.
 
-## <img width="712" height="466" alt="image" src="https://github.com/user-attachments/assets/bd2dcd62-2c2b-43df-ad58-23ac86d2af04" />
+## <img width="615" height="411" alt="image" src="https://github.com/user-attachments/assets/d49ded10-f58e-4a3d-bf06-f581f22b9771" />
 
 ### **Precision--Confidence Curve**
 
-Overall precision reaches **1.00 at 0.629 confidence**.
+Overall precision reaches **1.00 at 0.790 confidence**.
 
-## <img width="694" height="452" alt="image" src="https://github.com/user-attachments/assets/176b5c98-b925-4772-a415-a68229d62c65" />
+## <img width="604" height="401" alt="image" src="https://github.com/user-attachments/assets/422af592-a723-4033-b222-9d3ca7ac47cb" />
+
 
 ### **Recall--Confidence Curve**
 
 Recall remains strong, peaking at **0.98**.
 
-## <img width="681" height="460" alt="image" src="https://github.com/user-attachments/assets/93933a63-3761-4ac4-b386-2db956947646" />
+## <img width="604" height="398" alt="image" src="https://github.com/user-attachments/assets/9b6e6fbd-e2b5-425d-b443-4c0416f05a87" />
+
 
 ### **Precision--Recall Curve (mAP@0.5)**
 
-Class-wise mAP@0.5: - NORMAL: **0.995** - STONE: **0.850** - TUMOR:
-**0.784** - CYSTS: **0.983**
+Class-wise mAP@0.5: - NORMAL: **0.995** - STONE: **0.919** - TUMOR:
+**0.921** - CYSTS: **0.995**
 
-Overall **mAP@0.5 = 0.903**
+Overall **mAP@0.5 = 0.957**
 
-## <img width="685" height="453" alt="image" src="https://github.com/user-attachments/assets/61e01f29-37e8-447b-bd9f-bb68dcb625a2" />
+## <img width="608" height="397" alt="image" src="https://github.com/user-attachments/assets/9b6f9820-a73d-4077-8113-7b89e1527b18" />
+
 
 ### **Confusion Matrix**
 
 Shows prediction accuracy per class (raw and normalized).
-## <img width="545" height="445" alt="image" src="https://github.com/user-attachments/assets/00fc1449-1208-4728-8009-ea7ac4842978" />
+## <img width="604" height="398" alt="image" src="https://github.com/user-attachments/assets/1aedb6a6-006e-4b96-aaa3-4b94eed58e40" />
+
 
 ## 🧠 Model Training
 
