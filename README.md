@@ -8,7 +8,8 @@ This project uses Ultralytics YOLOv8 for training, validation, and
 inference. The repository includes training scripts, dataset structure,
 model weights, and evaluation results.
 
-
+## Use the Model
+https://huggingface.co/sruthii06/kidney_yolov8_model
 
 ## 🚀 Features
 
@@ -24,7 +25,7 @@ model weights, and evaluation results.
 
 ## Working Demo using Streamlit
 - Allows to upload CT-Scan image from system
-- 
+  
 ## <img width="803" height="422" alt="image" src="https://github.com/user-attachments/assets/8f2ef53e-5068-4d6a-93df-18cbfbed0edd" />
 
 ## <img width="564" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d60d4e-8453-4d1c-9e9c-e566b408e01a" />
